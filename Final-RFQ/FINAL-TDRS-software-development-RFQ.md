@@ -319,7 +319,7 @@ OFA to develop the updated validation rules.
 > 
 > [<span class="underline">https://www.acf.hhs.gov/ofa/resource/tribal-tanf-data-coding-instructions</span>](https://www.acf.hhs.gov/ofa/resource/tribal-tanf-data-coding-instructions)
 
-**2.2 Expectations**
+### **2.2 Expectations**
 
 This software development project will use agile development principles,
 with robust documentation, human-centered design, and an extensible
@@ -783,19 +783,19 @@ the COR’s delegation when appropriate.
 
 ### 7.2 Authorities and Delegations
 
-**7.2.1** The TTS Office of Acquisition (OA) is the only organization
+#### **7.2.1** The TTS Office of Acquisition (OA) is the only organization
 authorized to enter into or terminate this task order, modify any term
 or condition of this agreement, waive any requirement of this agreement,
 or accept nonconforming work.
 
-**7.2.2** The CO will designate a COR at the time of award. The COR will
+#### **7.2.2** The CO will designate a COR at the time of award. The COR will
 be responsible for technical monitoring of the contractor's performance
 and deliverables. The COR will be appointed in writing and a copy of the
 appointment will be furnished to the contractor. Changes to this
 delegation will be made by written changes to the existing appointment
 or by issuance of a new appointment.
 
-**7.2.3** The COR is not authorized to perform, formally or informally,
+#### **7.2.3** The COR is not authorized to perform, formally or informally,
 any of the following actions:
 
   - > Promise, award, agree to award, or execute any agreement,
@@ -826,13 +826,13 @@ perform that falls within any of the categories defined in paragraph
 7.2.3. prior to receipt of the CO’s response issued under paragraph
 7.2.4 of this clause.
 
-**7.2.4** The CO shall respond in writing within 30 days to any notice
+#### **7.2.4** The CO shall respond in writing within 30 days to any notice
 made under paragraph 7.2.3 of this clause.
 
-**7.2.5** The contractor shall provide copies of all correspondence to
+#### **7.2.5** The contractor shall provide copies of all correspondence to
 the CO and the COR.
 
-**7.2.6** Any action(s) taken by the contractor, in response to any
+#### **7.2.6** Any action(s) taken by the contractor, in response to any
 direction given by any person acting on behalf of the government or any
 government official other than the CO or the COR acting within his or
 her appointment, shall be at the contractor’s risk.
@@ -1039,7 +1039,7 @@ assumptions, caveats, or exceptions of any kind may result in the quote
 no longer being considered. Contractors should ONLY submit information
 explicitly requested in this RFQ.
 
-### 9.2.1 Phase 1 - Technical Submissions
+#### 9.2.1 Phase 1 - Technical Submissions
 
 Technical submissions must consist of:
 
@@ -1280,7 +1280,7 @@ The interview sessions will be conducted by video chat, though audio may
 be substituted as needed. The government will coordinate and set up the
 virtual meeting.
 
-**9.3.4 Date and Time**
+#### **9.3.4 Date and Time**
 
 After Phase 1, the government will schedule the date and time of
 interviews with each contractor who moved to Phase 2. The government
@@ -1521,8 +1521,7 @@ consider:
     > testing code, properly styling code, accessibility, deployment,
     > documentation, security, and incorporating user research?
 
-####   
-9.6.4 Phase 2 - Oral Interview
+#### 9.6.4 Phase 2 - Oral Interview
 
 In evaluating a contractor’s Oral interview, the government will
 consider:
